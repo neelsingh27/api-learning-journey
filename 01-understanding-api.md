@@ -1,4 +1,5 @@
 # What is an API?
+0. Generalised definition: a set of rules and protocols that allows different software applications to communicate and share data with each other.
 1. API stands for Application Programming Interface, which acts as a communication interface between an application and its server.
 2. Basically, an API communicates the request made by the application to the server and takes the server's response back to the application.
 3. When an application needs some data or wants a server to act, it sends a request through an API. The server processes the request and sends a response back through the API.
